@@ -36,6 +36,9 @@ contract TokenFarm {
         hasStaked[msg.sender] = true;
     }
 
+    // 2. Unstaking Tokens (Withdraw)
+
+    // 3. Issuing Tokens
 
 
 }
